@@ -5,7 +5,7 @@
 I specialize in analyzing data to uncover patterns, build predictive models, and create dashboards that support business decision-making.
 
 ## Live Portfolio
-file:///C:/Users/varsh/Varshitha246.github.io/index.html#about
+C:/Users/varsh/Varshitha246.github.io/index.html#about
 
 
 ## About Me
