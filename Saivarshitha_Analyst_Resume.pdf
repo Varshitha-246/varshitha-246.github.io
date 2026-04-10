@@ -1,102 +1,527 @@
 %PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 5 0 R
+/Producer (pypdf)
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Times-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Type /Catalog
+/Pages 2 0 R
 >>
 endobj
 4 0 obj
 <<
-/BaseFont /Times-Italic /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+/Annots [ 5 0 R 6 0 R 15 0 R ]
+/Contents 7 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 8 0 R
+/F1-0 9 0 R
+/F2 10 0 R
+/F2-0 11 0 R
+/F3 12 0 R
+/F3-0 13 0 R
+/F4 14 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
 >>
 endobj
 5 0 obj
 <<
-/BaseFont /Times-Roman /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057www\056linkedin\056com\057in\057saivarshitha\055sathupalli\055227bb2237\057)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 385.74 728.5 417.756 738.5 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 6 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.linkedin.com/in/saivarshitha-sathupalli-227bb2237/)
->> /Border [ 0 0 0 ] /Rect [ 385.74 728.5 417.756 738.5 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057Varshitha\055246)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 427.356 728.5 453.588 738.5 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 7 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://github.com/Varshitha-246)
->> /Border [ 0 0 0 ] /Rect [ 427.356 728.5 453.588 738.5 ] /Subtype /Link /Type /Annot
+/Length 13080
 >>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT /F2 17 Tf 20.4 TL ET
+.106 .227 .42 rg
+BT 1 0 0 1 182.971 749 Tm (SAIVARSHITHA SATHUPALLI) Tj T* ET
+BT /F3 8.5 Tf 10.2 TL ET
+.333 .333 .333 rg
+BT 1 0 0 1 216.8945 739.5 Tm (M.S. Computer Science  |  Data Science & Analytics) Tj T* ET
+BT /F4 8 Tf 9.6 TL ET
+.333 .333 .333 rg
+BT 1 0 0 1 158.412 729.5 Tm (Saivarshitha2406@gmail.com  |  +1 312-734-0837  |  Georgia, USA  |  ) Tj T* ET
+BT /F2 8 Tf 9.6 TL ET
+.106 .227 .42 rg
+BT 1 0 0 1 385.74 729.5 Tm (LinkedIn) Tj T* ET
+BT /F4 8 Tf 9.6 TL ET
+.333 .333 .333 rg
+BT 1 0 0 1 417.756 729.5 Tm (  |  ) Tj T* ET
+BT /F2 8 Tf 9.6 TL ET
+.106 .227 .42 rg
+BT 1 0 0 1 427.356 729.5 Tm (GitHub) Tj T* ET
+.106 .227 .42 RG
+.72 w
+n 385.74 727 m 417.756 727 l S
+n 427.356 727 m 453.588 727 l S
+.106 .227 .42 rg
+n 32.4 713 547.2 1 re f*
+BT /F2 9.5 Tf 11.4 TL ET
+.106 .227 .42 rg
+BT 1 0 0 1 32.4 715 Tm (SUMMARY) Tj T* ET
+BT /F4 8.5 Tf 10.2 TL ET
+.102 .102 .102 rg
+BT 1 0 0 1 32.4 699 Tm (Data Analyst who turns messy, high-volume data into decisions executives act on. Holding an M.S. in Computer Science \(GPA 3.7\) with a concentration in) Tj T* ET
+BT 1 0 0 1 32.4 689.3 Tm (Data Science & Analytics, I build predictive models, segmentation engines, and real-time dashboards that don't just report the past \227 they anticipate what) Tj T* ET
+BT 1 0 0 1 32.4 679.6 Tm (comes next. From pinpointing churn before it happens to collapsing reporting cycles, my work creates a direct line between data and revenue impact. Fluent in) Tj T* ET
+BT 1 0 0 1 32.4 669.9 Tm (Python, SQL, and Power BI. Relentless about turning complexity into clarity.) Tj T* ET
+.106 .227 .42 rg
+n 32.4 644 547.2 1 re f*
+BT /F2 9.5 Tf 11.4 TL ET
+.106 .227 .42 rg
+BT 1 0 0 1 32.4 646 Tm (EXPERIENCE) Tj T* ET
+BT /F2 9.5 Tf 11.4 TL ET
+.102 .102 .102 rg
+BT 1 0 0 1 32.4 626 Tm (Analyst \(Volunteer\)) Tj T* ET
+BT /F4 9.5 Tf 11.4 TL ET
+.333 .333 .333 rg
+BT 1 0 0 1 117.8745 625.8 Tm (-) Tj T* ET
+BT /F2 9.5 Tf 11.4 TL ET
+.106 .227 .42 rg
+BT 1 0 0 1 126.038 626 Tm (Social Empowerment Texas) Tj T* ET
+BT /F3 8.5 Tf 10.2 TL ET
+.333 .333 .333 rg
+BT 1 0 0 1 243.974 625.6 Tm (\267  Mar 2026 \226 Present) Tj T* ET
+.102 .102 .102 rg
+n 38 619 m 42.25 616.5 l 38 614 l h
+f*
+BT /F4 8.5 Tf 10.2 TL ET
+.102 .102 .102 rg
+BT 1 0 0 1 57.4 614 Tm (Architected 4 Power BI dashboards consolidating 12+ KPIs across retention, engagement, and program reach \227 cut manual reporting effort by ~40%,) Tj T* ET
+BT 1 0 0 1 47.4 604.3 Tm (freeing the team for higher-value work.) Tj T* ET
+.102 .102 .102 rg
+n 38 597 m 42.25 594.5 l 38 592 l h
+f*
+BT /F4 8.5 Tf 10.2 TL ET
+.102 .102 .102 rg
+BT 1 0 0 1 57.4 592 Tm (Executed structured SWOT analysis to evaluate operational performance, surface strategic gaps, and deliver actionable recommendations to program) Tj T* ET
+BT 1 0 0 1 47.4 582.3 Tm (leadership.) Tj T* ET
+BT /F2 9.5 Tf 11.4 TL ET
+.102 .102 .102 rg
+BT 1 0 0 1 32.4 569 Tm (Research Assistant) Tj T* ET
+BT /F4 9.5 Tf 11.4 TL ET
+.333 .333 .333 rg
+BT 1 0 0 1 114.179 568.8 Tm (-) Tj T* ET
+BT /F2 9.5 Tf 11.4 TL ET
+.106 .227 .42 rg
+BT 1 0 0 1 122.3425 569 Tm (Lewis University) Tj T* ET
+BT /F3 8.5 Tf 10.2 TL ET
+.333 .333 .333 rg
+BT 1 0 0 1 195.6855 568.6 Tm (\267  Mar 2024 \226 May 2024) Tj T* ET
+.102 .102 .102 rg
+n 38 562 m 42.25 559.5 l 38 557 l h
+f*
+BT /F4 8.5 Tf 10.2 TL ET
+.102 .102 .102 rg
+BT 1 0 0 1 57.4 557 Tm (Supported data handling, lab documentation, and workflow coordination in a compliance-sensitive environment \227 reinforcing audit-ready data integrity) Tj T* ET
+BT 1 0 0 1 47.4 547.3 Tm (practices.) Tj T* ET
+.102 .102 .102 rg
+n 38 540 m 42.25 537.5 l 38 535 l h
+f*
+BT /F4 8.5 Tf 10.2 TL ET
+.102 .102 .102 rg
+BT 1 0 0 1 57.4 535 Tm (Used Python and Excel to process and analyze research datasets, contributing to the accuracy of ongoing lab outputs.) Tj T* ET
+BT /F2 9.5 Tf 11.4 TL ET
+.102 .102 .102 rg
+BT 1 0 0 1 32.4 521 Tm (Data Analyst) Tj T* ET
+BT /F4 9.5 Tf 11.4 TL ET
+.333 .333 .333 rg
+BT 1 0 0 1 90.4385 520.8 Tm (-) Tj T* ET
+BT /F2 9.5 Tf 11.4 TL ET
+.106 .227 .42 rg
+BT 1 0 0 1 98.602 521 Tm (UISyntax) Tj T* ET
+BT /F3 8.5 Tf 10.2 TL ET
+.333 .333 .333 rg
+BT 1 0 0 1 142.134 520.6 Tm (\267  Sep 2022 \226 Nov 2022) Tj T* ET
+.102 .102 .102 rg
+n 38 514 m 42.25 511.5 l 38 509 l h
+f*
+BT /F4 8.5 Tf 10.2 TL ET
+.102 .102 .102 rg
+BT 1 0 0 1 57.4 509 Tm (Analyzed customer behavior and product usage patterns to uncover key trends and insights, with findings directly influencing a leadership-level product pivot.) Tj T* ET
+.102 .102 .102 rg
+n 38 502 m 42.25 499.5 l 38 497 l h
+f*
+BT /F4 8.5 Tf 10.2 TL ET
+.102 .102 .102 rg
+BT 1 0 0 1 57.4 497 Tm (Built Power BI dashboards incorporating KPIs, interactive filters, and drill-down capabilities, significantly improving data accessibility and reducing) Tj T* ET
+BT 1 0 0 1 47.4 487.3 Tm (stakeholder time-to-insight from days to hours. Identified two high-churn customer segments through detailed usage pattern analysis, enabling more focused) Tj T* ET
+BT 1 0 0 1 47.4 477.6 Tm (retention efforts and better understanding of customer behavior.) Tj T* ET
+BT /F2 9.5 Tf 11.4 TL ET
+.102 .102 .102 rg
+BT 1 0 0 1 32.4 464 Tm (Business Analyst) Tj T* ET
+BT /F4 9.5 Tf 11.4 TL ET
+.333 .333 .333 rg
+BT 1 0 0 1 105.762 463.8 Tm (-) Tj T* ET
+BT /F2 9.5 Tf 11.4 TL ET
+.106 .227 .42 rg
+BT 1 0 0 1 113.9255 464 Tm (UISyntax) Tj T* ET
+BT /F3 8.5 Tf 10.2 TL ET
+.333 .333 .333 rg
+BT 1 0 0 1 157.4575 463.6 Tm (\267  Jul 2022 \226 Aug 2022) Tj T* ET
+.102 .102 .102 rg
+n 38 457 m 42.25 454.5 l 38 452 l h
+f*
+BT /F4 8.5 Tf 10.2 TL ET
+.102 .102 .102 rg
+BT 1 0 0 1 57.4 452 Tm (Translated business requirements into structured analytical tasks; delivered performance reports surfacing key trends, KPIs, and operational gaps for) Tj T* ET
+BT 1 0 0 1 47.4 442.3 Tm (internal stakeholders.) Tj T* ET
+BT /F2 9.5 Tf 11.4 TL ET
+.102 .102 .102 rg
+BT 1 0 0 1 32.4 428 Tm (Business Development Assistant) Tj T* ET
+BT /F4 9.5 Tf 11.4 TL ET
+.333 .333 .333 rg
+BT 1 0 0 1 167.2365 427.8 Tm (-) Tj T* ET
+BT /F2 9.5 Tf 11.4 TL ET
+.106 .227 .42 rg
+BT 1 0 0 1 175.4 428 Tm (LearningShaala.in) Tj T* ET
+BT /F3 8.5 Tf 10.2 TL ET
+.333 .333 .333 rg
+BT 1 0 0 1 255.6305 427.6 Tm (\267  Dec 2022) Tj T* ET
+.102 .102 .102 rg
+n 38 421 m 42.25 418.5 l 38 416 l h
+f*
+BT /F4 8.5 Tf 10.2 TL ET
+.102 .102 .102 rg
+BT 1 0 0 1 57.4 416 Tm (Diagnosed a 3-step funnel drop-off across a 20K-record database; insights drove campaign redesign estimated to improve email performance by ~18%.) Tj T* ET
+.102 .102 .102 rg
+n 38 409 m 42.25 406.5 l 38 404 l h
+f*
+BT /F4 8.5 Tf 10.2 TL ET
+.102 .102 .102 rg
+BT 1 0 0 1 57.4 404 Tm (Delivered the team\222s first structured engagement report by cleaning and segmenting customer data in Excel \227 establishing a reliable foundation for) Tj T* ET
+BT 1 0 0 1 47.4 394.3 Tm (acquisition decisions.) Tj T* ET
+.106 .227 .42 rg
+n 32.4 377 547.2 1 re f*
+BT /F2 9.5 Tf 11.4 TL ET
+.106 .227 .42 rg
+BT 1 0 0 1 32.4 379 Tm (TECHNICAL SKILLS) Tj T* ET
+.91 .929 .961 rg
+n 28.3 348.9 85.25 13.1 re f*
+BT /F2 8 Tf 9.6 TL ET
+.106 .227 .42 rg
+BT 1 0 0 1 32.4 354 Tm (Languages) Tj T* ET
+BT /F4 8.1 Tf 9.72 TL ET
+.102 .102 .102 rg
+BT 1 0 0 1 117.4 353.9 Tm (Python \(Pandas, NumPy, Scikit-learn, StatsModels\), SQL, R \(Basics\), C/C++) Tj T* ET
+.91 .929 .961 rg
+n 28.3 327.8 85.25 22.2 re f*
+BT /F2 8 Tf 9.6 TL ET
+.106 .227 .42 rg
+BT 1 0 0 1 32.4 342 Tm (Analytics & ML) Tj T* ET
+BT /F4 8.1 Tf 9.72 TL ET
+.102 .102 .102 rg
+BT 1 0 0 1 117.4 341.9 Tm (Predictive Modeling, Segmentation, Clustering \(K-Means, PCA\), Regression, A/B Testing, Time-Series Analysis,) Tj T* ET
+BT 1 0 0 1 117.4 332.8 Tm (EDA, Hypothesis Testing) Tj T* ET
+.91 .929 .961 rg
+n 28.3 315.9 85.25 13.1 re f*
+BT /F2 8 Tf 9.6 TL ET
+.106 .227 .42 rg
+BT 1 0 0 1 32.4 321 Tm (Visualization) Tj T* ET
+BT /F4 8.1 Tf 9.72 TL ET
+.102 .102 .102 rg
+BT 1 0 0 1 117.4 320.9 Tm (Power BI, Matplotlib, Seaborn, Excel \(Pivot Tables, Power Query, XLOOKUP\), KPI Scorecard Development) Tj T* ET
+.91 .929 .961 rg
+n 28.3 303.9 85.25 13.1 re f*
+BT /F2 8 Tf 9.6 TL ET
+.106 .227 .42 rg
+BT 1 0 0 1 32.4 309 Tm (Platforms) Tj T* ET
+BT /F4 8.1 Tf 9.72 TL ET
+.102 .102 .102 rg
+BT 1 0 0 1 117.4 308.9 Tm (Git/GitHub, Jupyter, VS Code, Copilot, AWS \(S3, EC2\), Databricks \(Basic\), Linux) Tj T* ET
+.91 .929 .961 rg
+n 28.3 273.7 85.25 31.3 re f*
+BT /F2 8 Tf 9.6 TL ET
+.106 .227 .42 rg
+BT 1 0 0 1 32.4 297 Tm (Domain Skills) Tj T* ET
+BT /F4 8.1 Tf 9.72 TL ET
+.102 .102 .102 rg
+BT 1 0 0 1 117.4 296.9 Tm (Spend & Usage Pattern Analysis, Operational KPI Reporting, Funnel & Lifecycle Analysis, Risk Identification &) Tj T* ET
+BT 1 0 0 1 117.4 287.8 Tm (Cohort Profiling, Vendor/Supplier Segmentation, Demand Trend Analysis, Data Governance & Audit) Tj T* ET
+BT 1 0 0 1 117.4 278.7 Tm (Documentation) Tj T* ET
+.106 .227 .42 rg
+n 32.4 258 547.2 1 re f*
+BT /F2 9.5 Tf 11.4 TL ET
+.106 .227 .42 rg
+BT 1 0 0 1 32.4 260 Tm (PROJECTS) Tj T* ET
+.102 .102 .102 rg
+n 38 247 m 42.25 244.5 l 38 242 l h
+f*
+BT /F2 8.5 Tf 10.2 TL ET
+.102 .102 .102 rg
+BT 1 0 0 1 57.4 242 Tm (Customer Churn Prediction & Business Insights) Tj T* ET
+BT /F3 8.5 Tf 10.2 TL ET
+.333 .333 .333 rg
+BT 1 0 0 1 232.84 241.8 Tm ( \(Python \267 Pandas \267 Scikit-learn\): ) Tj T* ET
+BT /F4 8.5 Tf 10.2 TL ET
+.102 .102 .102 rg
+BT 1 0 0 1 347.573 242 Tm (Engineered churn and propensity-to-convert models that quantified) Tj T* ET
+BT 1 0 0 1 47.4 232.3 Tm (at-risk customer populations; translated model outputs into prioritized next-best-action playbooks for retention teams.) Tj T* ET
+.102 .102 .102 rg
+n 38 225 m 42.25 222.5 l 38 220 l h
+f*
+BT /F2 8.5 Tf 10.2 TL ET
+.102 .102 .102 rg
+BT 1 0 0 1 57.4 220 Tm (Customer Segmentation \(K-Means Clustering\)) Tj T* ET
+BT /F3 8.5 Tf 10.2 TL ET
+.333 .333 .333 rg
+BT 1 0 0 1 226.669 219.8 Tm ( \(Python \267 EDA \267 Elbow Method\): ) Tj T* ET
+BT /F4 8.5 Tf 10.2 TL ET
+.102 .102 .102 rg
+BT 1 0 0 1 342.5835 220 Tm (Clustered 5 distinct behavioral segments by income and spend) Tj T* ET
+BT 1 0 0 1 47.4 210.3 Tm (velocity; delivered full cluster profiles enabling hyper-targeted campaign personalization and resource allocation.) Tj T* ET
+.102 .102 .102 rg
+n 38 203 m 42.25 200.5 l 38 198 l h
+f*
+BT /F2 8.5 Tf 10.2 TL ET
+.102 .102 .102 rg
+BT 1 0 0 1 57.4 198 Tm (Advanced SQL Retail Sales Analysis) Tj T* ET
+BT /F3 8.5 Tf 10.2 TL ET
+.333 .333 .333 rg
+BT 1 0 0 1 190.1105 197.8 Tm ( \(SQL \267 Window Functions \267 CTEs\): ) Tj T* ET
+BT /F4 8.5 Tf 10.2 TL ET
+.102 .102 .102 rg
+BT 1 0 0 1 313.5985 198 Tm (Mined 12 months of transactional data using advanced window functions and) Tj T* ET
+BT 1 0 0 1 47.4 188.3 Tm (CTEs to surface LTV trends, revenue concentration, and product performance signals for strategic planning.) Tj T* ET
+.102 .102 .102 rg
+n 38 181 m 42.25 178.5 l 38 176 l h
+f*
+BT /F2 8.5 Tf 10.2 TL ET
+.102 .102 .102 rg
+BT 1 0 0 1 57.4 176 Tm (Fake Review & Bot Detection System) Tj T* ET
+BT /F3 8.5 Tf 10.2 TL ET
+.333 .333 .333 rg
+BT 1 0 0 1 192.6605 175.8 Tm ( \(Python \267 NLP \267 Classification\): ) Tj T* ET
+BT /F4 8.5 Tf 10.2 TL ET
+.102 .102 .102 rg
+BT 1 0 0 1 305.056 176 Tm (Designed and deployed an NLP-powered classification engine achieving 85%+) Tj T* ET
+BT 1 0 0 1 47.4 166.3 Tm (accuracy; integrated real-time monitoring dashboard to flag fraudulent activity at scale.) Tj T* ET
+.102 .102 .102 rg
+n 38 159 m 42.25 156.5 l 38 154 l h
+f*
+BT /F2 8.5 Tf 10.2 TL ET
+.102 .102 .102 rg
+BT 1 0 0 1 57.4 154 Tm (AB Testing Analysis) Tj T* ET
+BT /F3 8.5 Tf 10.2 TL ET
+.333 .333 .333 rg
+BT 1 0 0 1 131.078 153.8 Tm ( \(Python \267 Statistical Testing\): ) Tj T* ET
+BT /F4 8.5 Tf 10.2 TL ET
+.102 .102 .102 rg
+BT 1 0 0 1 235.441 154 Tm (Orchestrated full-cycle experimentation \227 from hypothesis design through power analysis to) Tj T* ET
+BT 1 0 0 1 47.4 144.3 Tm (significance testing \227 producing statistically rigorous conversion uplift recommendations.) Tj T* ET
+.106 .227 .42 rg
+n 32.4 119 547.2 1 re f*
+BT /F2 9.5 Tf 11.4 TL ET
+.106 .227 .42 rg
+BT 1 0 0 1 32.4 121 Tm (EDUCATION & CERTIFICATIONS) Tj T* ET
+BT /F2 9 Tf 10.8 TL ET
+.102 .102 .102 rg
+BT 1 0 0 1 32.4 104 Tm (M.S. Computer Science) Tj T* ET
+BT /F4 8.1 Tf 9.72 TL ET
+.333 .333 .333 rg
+BT 1 0 0 1 122.886 103.6 Tm ( / Concentration: Data Science & Analytics  |  GPA 3.7  |  Lewis University) Tj T* ET
+BT 1 0 0 1 543.15 103.6 Tm (2024\2262025) Tj T* ET
+BT /F2 9 Tf 10.8 TL ET
+.102 .102 .102 rg
+BT 1 0 0 1 32.4 93 Tm (B.Tech Computer Science & Engineering) Tj T* ET
+BT /F4 8.1 Tf 9.72 TL ET
+.333 .333 .333 rg
+BT 1 0 0 1 191.142 92.6 Tm (  \267  GPA 3.0  |  HITAM) Tj T* ET
+BT 1 0 0 1 543.15 92.6 Tm (2020\2262023) Tj T* ET
+BT /F2 8 Tf 9.6 TL ET
+.102 .102 .102 rg
+BT 1 0 0 1 32.4 82 Tm (IBM Certifications:) Tj T* ET
+BT /F4 8.1 Tf 9.72 TL ET
+.333 .333 .333 rg
+BT 1 0 0 1 102.72 81.8 Tm (Data Analytics  \267  Machine Learning  \267  Power BI  \267  Data Science) Tj T* ET
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+0.333 0.333 0.333 rg
+BT
+1 0 0 1 453.588 727.764 Tm
+(  \174  ) Tj
+T*
+ET
+BT
+/F3-0 8 Tf
+9.6 TL
+ET
+0.106 0.227 0.42 rg
+BT
+1 0 0 1 463.188 727.764 Tm
+(Website) Tj
+T*
+ET
+0.106 0.227 0.42 RG
+0.72 w
+n
+463.188 727 m
+490.74 727 l
+S
+Q
+
+
+endstream
 endobj
 8 0 obj
 <<
-/Annots [ 6 0 R 7 0 R ] /Contents 12 0 R /MediaBox [ 0 0 612 792 ] /Parent 11 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 
-  /Trans <<
-
->> /Type /Page
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 9 0 obj
 <<
-/PageMode /UseNone /Pages 11 0 R /Type /Catalog
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 10 0 obj
 <<
-/Author (anonymous) /CreationDate (D:20260409195229+00'00') /Creator (anonymous) /Keywords () /ModDate (D:20260409195229+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (unspecified) /Title (untitled) /Trapped /False
+/BaseFont /Times-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 11 0 obj
 <<
-/Count 1 /Kids [ 8 0 R ] /Type /Pages
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 12 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 4716
+/BaseFont /Times-Italic
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
 >>
-stream
-Gatm>?$"c/&q/*0^e8a4`a\]lP3pFmA1(5a-a"bn]eb+g-qH[!OXr``W,q/$p3RPt.4TKUV<2kH[3uVh/C'hM]7@jor+E!YUCC^OB'f1pMchs-/Xb]=/t8E<Ze7/-gh)jJcY^":DHQ%_)7Jog_mNX]U*!S3Qr[T6Tl2[C%G>R8?;*kQc_IQ*qoS4'LeUCGpXbb,oCL's2Z&-OIV`Y:=C?AgHIK*fBcP0%]79P;Z)s]3KW`@C-_r[UeV,_8fJq\t<@MrHNMK)h_:X5T467c,+$=22KZDhF7`Et[\1AaA6=Y8!$'lAE/tD(YN<N65ms&0?A\$s3CC^BXg2IoK;7]V:]X!o7f`U,O#A2ohlIe7]jt"PLf_'?^*dhggrP594hKK%InD0*nk;'R_Mb3KHQ+E9"pti52maFmQD;T=+`dB/WpXQo4kl0mLn"(E2c0h2M]4LhTdkT-\0q71gh9bG6cS<'TBYT%)'ZRJ1D;TB$kPB_$`H&e\5;nE,CLgU="[G4O%>a>.Mp^()*qB4sZs0EPG5jZ[kV1L0V9l:t>a4T(S[,QDPCdX>;/B%\>-?G/]/6ZKJh?2Q1+?/1&<SMSMP#_Y,-"7\-ORkgP,4#OhP]m1-7d(LVIE(C&&[Vn`Oj;*Et&*2-+aDr).ug(09S*R,mM@^qlAL24U;L0BDa!JGeteD?HIH.Z<Sqk6l*(&\e$U1.`?(SRIilk=ij(i.8L`3-lrmkWRb7Sk:+^n"[hpIClp(E.bPmYI$BO?btC/7/E?MQ6T^'!>7?(nA]@@D8+Q5t$@E"mX8pWVh^.8TBs>',69CB&QGUi+_J"qB?urSH!?kUO2:"#YY@@s71lci^d''fBlM'$]VR:6Klor[4=bHsDZo)YCF+O:HYuZfbh@#J0rRB$)'1mlq2AnCbG/P-no8PmML5#oZjgJElaU+I9HEOr+RGMGShb4H%-"78cP@26iX\+:!ALINjM_DBkC-Y3BcgejHgMksPf$JPd$`p&&2rX,tbHn7kfuNX96P=]efPe`pXiG:qlK6&uKMYPROl*g!(qu&)EA1=AU&lFYC1qr`TI(QsC%pL4>'jqM:=*0.9d@biG.,M+1FZS]9RPe0EnpD%>1Z&0GEqQAWZ-;@jE8:[L]Ye\E#Q%*>SNQH*tDX<SVWaEXcQ*,2Jfl*8_aCsX2cjl=?gTJn_FoDq6Z+u7;ZNU+UKBB`.GNO]Xo-ang`'i,,,A!QMl\h\==*VjsdO,M\:r1'I9=j^(TL&*@k9aY&_6"k)%ZX9#.?@_ikGqhaOtU/r=]4>P:;5r8H`,^iYjhVH]8E1)GQ!-)N-q-G^7Ncp^..j+q\D'#qDOm"KoSA1r$D-[VQCK9L!`'n\!"^r&U/<tU5iInkLj1kV8GLnnKC6$<pVVO>f!!a`a9=;b?Z$'9M!00,1]6((-BAAhNA8aU?@5Oq'7R>Tjk`r[:d'k'0>C+qM8]d3nglp6nO(WV+\"A,uEk_D12TdJ;?i1C*pCfFg,,u;Z)BYu\Y5K"7%J#iZ@\:fanluR0-NOhm+blnCOa`LsFTS^JUPgtiaKrb%/JoB2;,Hs;;G?FRU(<`<,#F7*%@a?O!^]f<iNa2a7aLnPe(@sP^6r^Sj6N`P3E#GSJi/ojOG\T'sP"!HVP-@(L,Jp@SA41Gco/'=OX>hFpTHaXbV7Wa]/-d;^`O;%J@[011NI=@X?Oc6NVsoL1E==S3k0BBTh`B6VqJ`=,<UY&25AH=SS9=NO&oeqjOcgK)W(>o$MW[$<B]Xpr&c(AI17.T)nL.]g3oj.;@@^Vg/tlEL.=FX3"-!AU>4`QR[e2mp5<4Zi<6hFE0Y#e;(l&AKXIq<BH8=:XSmS'1]Kh55\B<<=lqTu=d;&""rKuH@:Ii20q7)+tf%.X]%/YRE)=B?9?[uAaYn(iG6SGY=SODnI'D;LlM,a`M3!t0KAW=tS<>)-m?#ELGPW;X!7]&T#Y1<_D<TkuF6Ieq1/+T&1n<3FPNa9*:."`AB4DlOjjBYq1'9hR=i7tO_3&g2Vi+NgFdMp\:jeGF=_@&BF:FdSd5pqP?'WZbqQ?X#-WtTM+j*7e!mh6K,N6c&DI\QrK/kb8'7`]r;TadN28)ris-).W1lIXe%J:WXJr;hLkK8/<G9lIuh74N,O>&R67K6ia6Ot*[>hl7,kVc@%?CpG2R[Zl;1H(XAZ=;PR$6L'GkC;i<;<a["HEZ*ns4d`TSL3+R!#H_Z,V;2b5!A&H9I,D+pW"kN(-IaG29h4l!Pn80_(K:PJEdIfGSuBmS\ht$+.\DXUkfkkG_af`1LJDb;`Bq[T6UN\"pIB0:'V=bBCV(#L9,2XfDH*`uA2k"+$XU#:g90%_d\]m_`*(BL,3C.Hk0<V]im.sbUf"3cnr=.AF^##Q)bK_2ppj8MpoYjUlZ/i#2)laua+Ylu(D']\ignRZ'de^?ml#2j&IH/$M;c13[;-$ELd!-]9f"*$H;rijhlrZFVqR#V!SmE1$TNnAU*e'*c$@NmYIcdoUh9?D_AuS0gkGR'LlMWsZpb@=.qjKN%Jp.6V2[O$I$LKQ(HHO@71#BeXHE]XFHNKS+C-UhMO_TN%g+<\EimaP&;rc^\XIu.>SZd'`fZ*+^BdG'9GGPb.WQ(D3\<XW;d4](&?&:3Jfg#oeulRL?as_&^MqF]qA1uGnk0q(9e-4NA0^FdE^_q6GMS+QbDDKPO<f[#kUr;tVg<S^C8m,M>*u@:"Fd*C"rX1(9b%8)\\1\;]%$^KbWB7^`S_>qM<Z.pe+T>nBbWVBhcll&n[1?HSW2NVS;]u$D#.R\IQm.f&R#TW-H&,99:K>p=G,W<7`YXlFr6)".pKaN1e&ABkq,']af<3a4a-%B3Rj`$;+RBu,)tpT[<($GMbECq#@i7b2OE/3lE]<AY)J3Cn-S2lEM4<92_XLRmhK/T_[@?]8)r4]=0IYSO5`Im*uf4h7/sdj:;t[R!.3!DcMMXFCGel@SLQ$8W8`9[3EO#mA&O/D.0+6lHl-*2Lu?M#nVE]VKn>gO/H'P[q@/o+Z-X=D&u8I=-5oGZ[J5!:e2CagReP-'7jm[%2G4YCe1RfB4D"sPY>9u*A`RK,<'6Ir.=^ut"/mL2*N3b7'6_48/5FAjc=m[]4=,C+>kI$=W[9VKnfdJ&Q[Z&)%RC&CroqmelV#qA8/'o#8j#ELdnTb\36u^CFC&7,?:(8]3pA61c(K784'B;KB;6i9WS&%(4^jt\C^_9c[:puH9VCsc.GQk)i6&<!5,'CD4I=H4d=aMC4dSb5jTmNm^16rGQQ-ADT&_30/jiE5Uu$c!Dc'!tjXE82et/=B&?arPCK88Xehp\OQ0_F>`Y*m+RVr'1H`L_uF80Ase>Z^9]dm7@[T-n7Zf1LC0l@5U<#hfOb0$&rME4qcoGKQaq.o7T`fa)!pIOK^g&u2YOTb,TTGg_sW*>DRqW*m0L'MSb"/Bj^Vgit[*k&bT[leI;9cY9VT7/d>c_fS8=LPiBW,/rFW,-[mU9af]^p<9B1N'#8=S2idlp1Hjg3R4+Mp&$AEM@iLgo=4;4BH04P3"`ElbC&7qr[!9%k_"4s4m_BUusi,da-G=\It7?.8i+H1=`J_;KF-V'-OEYcenD@qO\M+RjnY2+>'r9J`S#PW+e,%Q=a-ucYS&"L"R6KC6#0NWsdT3QY?s.83K*sB-5?[(^KmGLh/<ucI;DdeY'O,3[KrMl%%N=<=:J$QNgd)fa#0+F!"`Ei81GjNmr;u]);NjZA6G=(c'hQ+,:YS7f>h>:[ctj^fQGcYQY79Nji6&?5PTG@gbkK-7[bF(:=13^>"%9)NPi2M\IB'6b%_6)HW0e,J^\@d9'FhN1rhe9LoB:6B&;]]CcrH5:Cfk&d5_Q7`<c-;F)mZlFpek<]LGOa-]@[56b&`Zbr#A2OLeeTEe0<-qYU8mYL]U,i+TnW*RNB4RU;9*mX1I_m2tWU<qd`M<7b+q+W&Sh,C>4o\$9k3hDlWrI>2`bR4NV?1A)CC-gGa2ec0m$gNa%ii#Y*@pR,Ul:MM(]Q:99>dd,mK?1?MTLK^!K:2qfH1^q!F5%":mb@)6GrjV??KcPGW:Rf7btu#^D(o$XAbcpgZ@ZBR`U_dGMrbKH!0j[V05pZg!0HWE\>QD5eU8q2c32,'FGjP\oDg9Ye3niX]uR\Jj8!6qUR7ghC?/AZJ20:*oS2ab:K:%Y[7BIr!G[^uqERLYe?p0gLHR`agLcC7CFRba7c=77l4BPA_mU#K:Fq!uO)n=0gYGp5VIc1XqM_46N$7sJA%lEqS6(W+Y%"B2%sR<kUguoIGWuBrhQB@[H#8Vbo%ZFe;`?O&D%YPJ!MRpqIBq@J*%oa[TX7%Vm<\J4TOL!SiOW(%\5.C'R_7.>7epVgCBF#0E@s=%SYWGMK3Ia/pq$.N*%`UMFYC]RJreZ.d<5b0&Tn)]UXaITETgo;o1$B(\Qktu;;H(e[lIi'Kc4H(IXPqmQtDk"KtS3%<o%.C41u\rAs6"4_)LD\X4cS$7":eW]n)QJhS.q3o)Ph/Sj%H2r2<fj+>fc,K)fFk2?ub=2.l+6K:i/:T"2T"XmaT9^CT55BuA2<%*Rt\8/Gn%Hj]oJqX@UcU%ZKnM.lkWcL5i*e-Z^]CB'+m6d)]a%n[0$*HHQTTcIVma1S%g7Mc<CdCp)<R'e`?@rA#j_\[m,N[AZsfGM"lRfSD=T"]6oVI'O%os_P=U;>74O$\jmWbG4\Rcj(+IJp\aZArYcg&D*,g).'~>endstream
+endobj
+13 0 obj
+<<
+/BaseFont /Times-Bold
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+14 0 obj
+<<
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+15 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 463.188 727 490.74 736 ]
+/Border [ 0 0 0 ]
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057varshitha\055246\056github\056io\057)
+>>
+/P 4 0 R
+>>
 endobj
 xref
-0 13
+0 16
 0000000000 65535 f 
-0000000061 00000 n 
-0000000122 00000 n 
-0000000229 00000 n 
-0000000337 00000 n 
-0000000447 00000 n 
-0000000556 00000 n 
-0000000761 00000 n 
-0000000937 00000 n 
-0000001156 00000 n 
-0000001225 00000 n 
-0000001487 00000 n 
-0000001547 00000 n 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000162 00000 n 
+0000000463 00000 n 
+0000000698 00000 n 
+0000000892 00000 n 
+0000014025 00000 n 
+0000014132 00000 n 
+0000014239 00000 n 
+0000014348 00000 n 
+0000014458 00000 n 
+0000014569 00000 n 
+0000014678 00000 n 
+0000014788 00000 n 
 trailer
 <<
-/ID 
-[<e3fd01263e84dbb6e8a2a6877f75216c><e3fd01263e84dbb6e8a2a6877f75216c>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 10 0 R
-/Root 9 0 R
-/Size 13
+/Size 16
+/Root 3 0 R
+/Info 1 0 R
 >>
 startxref
-6355
+14990
 %%EOF
